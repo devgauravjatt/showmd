@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "description": "Fast and secure Markdown to HTML renderer written in Go.",
+  "homepage": "https://github.com/your-username/go-markdown-render",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/your-username/go-markdown-render/releases/download/v1.0.0/showmd_windows_amd64.exe",
+      "bin": "showmd_windows_amd64.exe"
+    }
+  },
+  "checkver": "github",
+  "autoupdate": {
+    "url": "https://github.com/your-username/go-markdown-render/releases/download/v$version/showmd_windows_amd64.exe"
+  }
+}
