@@ -12,14 +12,8 @@ A fast and secure Markdown to HTML rendering tool built with Go. Uses [`gomarkdo
 ## Quick Start
 
 ```bash
-# Read from stdin
-echo "# Hello World" | showmd
-
-# Convert a file
 showmd input.md
-
-# Save output to file
-showmd input.md > output.html
+md show on http://localhost:4000
 ```
 
 ---
