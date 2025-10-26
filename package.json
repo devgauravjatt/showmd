@@ -1,0 +1,16 @@
+{
+	"name": "showmd",
+	"version": "1.0.0",
+	"description": "",
+	"main": "build.mjs",
+	"scripts": {
+		"build": "bun build.mjs"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"execa": "^9.6.0",
+		"zx": "^8.6.0"
+	}
+}
