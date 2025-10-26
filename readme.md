@@ -22,7 +22,7 @@ md show on http://localhost:4000
 
 ### 📦 Step 1: Go to Releases Page
 
-1. Visit the [Releases page](https://github.com/your-username/go-markdown-render/releases)
+1. Visit the [Releases page](https://github.com/devgauravjatt/showmd/releases)
 2. Download the latest release for your operating system
 
 ### 🧩 Step 2: Download the correct binary
@@ -174,7 +174,3 @@ curl https://raw.githubusercontent.com/user/repo/main/README.md | showmd
 See LICENSE file for details.
 
 ---
-
-## 🤝 Contributors
-
-- Ned Palacios ([@nedpals](https://github.com/nedpals))
